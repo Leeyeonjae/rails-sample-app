@@ -1,12 +1,12 @@
 # Ruby on Rails Tutorial Sample Application
 
 이 프로젝트는, 아래의 링크의 내용을 바탕으로 만들어진 프로젝트입니다.
-- [*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
+- [*Ruby on Rails 튜토리얼*](https://railstutorial.jp/)
 - [Michael Hartl](http://www.michaelhartl.com/)
 
 ## 라이센스
 
-[Ruby on Rails チュートリアル](https://railstutorial.jp/)에 기재되어 있는
+[Ruby on Rails 튜토리얼](https://railstutorial.jp/)에 기재되어 있는
 소스코드는 MIT라이센스와 Beerware라이센스를 기반으로 공개되어있습니다.
 <br>
 상세한 내용은 [LICENSE.md](LICENSE.md)를 참고해주세요. 
