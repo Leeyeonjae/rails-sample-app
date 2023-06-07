@@ -24,3 +24,8 @@
 
 # Ignore Spring files.
 /spring/*.pid
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/rails-sample-app.iml
+/.idea/vcs.xml
